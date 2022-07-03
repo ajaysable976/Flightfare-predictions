@@ -9,6 +9,7 @@
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
+  * [credits of project](#credits)
 
 
 ## Demo
@@ -67,3 +68,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End 
+
+## credits
+* The projects credits goes to the youtuber @krishnaik
+
