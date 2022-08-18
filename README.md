@@ -13,11 +13,9 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+![flight](https://user-images.githubusercontent.com/108600694/185307765-a075c457-3ccc-45b3-af83-effcf77d4a56.png)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -30,13 +28,6 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
-
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
